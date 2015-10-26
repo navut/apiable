@@ -7,4 +7,4 @@
 ## Contributing ##
 
 ## License ##
-See [LICENSE.MD](/LICENSE.MD) file.
+See [LICENSE.MD](/LICENSE.md) file.
