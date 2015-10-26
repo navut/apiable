@@ -1,6 +1,8 @@
 # Apiable #
 
 ## Status ##
+[![Code Climate](https://codeclimate.com/github/navut/apiable/badges/gpa.svg)](https://codeclimate.com/github/navut/apiable)
+
 ## Description ##
 ## Features ##
 ## Usage ##
