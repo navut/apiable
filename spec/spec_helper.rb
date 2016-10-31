@@ -1,6 +1,9 @@
 require 'bundler/setup'
 Bundler.setup
 
+require 'apiable'
+
+
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
     # This option will default to `true` in RSpec 4.
